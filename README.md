@@ -7,4 +7,4 @@ __CAUTION__:
 The code slows down the MCU clock speed by a factor of 16.
 This was done for easier debugging during development.
 
-An extensive secription can be found on my blog post [Ride the PWM](https://kwasi-ich.de/blog/2019/11/15/pwm_rider/)
+An extensive decription can be found on my blog post [Ride the PWM](https://kwasi-ich.de/blog/2019/11/15/pwm_rider/)
